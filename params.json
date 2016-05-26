@@ -1,0 +1,6 @@
+{
+  "name": "Egg Incubator",
+  "tagline": "Let the chicks hatch!",
+  "body": "# Egg Incubator\r\n\r\nIs an arduino controlled incubator for chicken's eggs. It's purpose is to keep temperature and humidity at defined values, \r\nso that the eggs are incubated and the chicks finally hatch after some days.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
